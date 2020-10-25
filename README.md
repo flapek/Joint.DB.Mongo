@@ -90,4 +90,4 @@ public class SomeService
 - [Joint.Logging](https://github.com/flapek/Joint.Logging)
 - [Joint.WebApi](https://github.com/flapek/Joint.WebApi)
 
-[image1]: https://github.com/flapek/Joint/blob/master/Resources/MongoRobo3T.png
+[image1]: https://github.com/flapek/Joint-Main/blob/main/Resources/MongoRobo3T.png
