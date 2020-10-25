@@ -1,5 +1,10 @@
 # Joint.DB.Mongo
 
+| Branch  | Build status                                                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.DB.Mongo.svg?branch=master)](https://travis-ci.org/flapek/Joint.DB.Mongo)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.DB.Mongo.svg?branch=develop)](https://travis-ci.org/flapek/Joint.DB.Mongo) |
+
 ## MongoDB
 
 Adds the set of conventions and ease of use for [MongoDB](https://www.mongodb.com/) integration with .NET Core.
