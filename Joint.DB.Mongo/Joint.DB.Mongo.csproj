@@ -15,7 +15,7 @@
 		<PackageDescription>This package its created for common functionality.</PackageDescription>
 		<PackageTags>Joint.DB.Mongo</PackageTags>
 		<Description></Description>
-		<RepositoryUrl>https://github.com/flapek/Joint</RepositoryUrl>
+		<RepositoryUrl>https://github.com/flapek/Joint.DB.Mongo</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
